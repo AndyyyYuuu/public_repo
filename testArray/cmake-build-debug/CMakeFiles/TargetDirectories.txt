@@ -1,0 +1,3 @@
+/Users/andyyu/Coding/C++/testArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andyyu/Coding/C++/testArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andyyu/Coding/C++/testArray/cmake-build-debug/CMakeFiles/testArray.dir
